@@ -123,4 +123,4 @@ Sources/More Info:
 
 -   Loading Data in Keras from DataFrame [https://vijayabhaskar96.medium.com/tutorial-on-keras-flow-from-dataframe-1fd4493d237c](https://vijayabhaskar96.medium.com/tutorial-on-keras-flow-from-dataframe-1fd4493d237c)
     
-	-   Noisy Student Explained [https://paperswithcode.com/method/noisy-student](https://paperswithcode.com/method/noisy-student)
+-   Noisy Student Explained [https://paperswithcode.com/method/noisy-student](https://paperswithcode.com/method/noisy-student)
