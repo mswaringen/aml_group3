@@ -71,9 +71,9 @@ Future Research
 -   Grid Search Hyperparameters (already found nice values manually, didn’t both with this)
     
 
--   [https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
+	-   [https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
     
--   [https://github.com/keras-team/keras-tuner](https://github.com/keras-team/keras-tuner)
+	-   [https://github.com/keras-team/keras-tuner](https://github.com/keras-team/keras-tuner)
     
 
 -   Implement Noisy Student model (lots of work + need to include/create unlabeled data) [https://memotut.com/keras-implement-noisy-student-and-check-the-effect-a1559/](https://memotut.com/keras-implement-noisy-student-and-check-the-effect-a1559/)
@@ -83,15 +83,15 @@ Future Research
 -   Use VisionTransformer (very promising but Keras implementation kept breaking on experimental packages, official Jax implementation required learning another framework)
     
 
--   [https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers-1](https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers-1)
+	-   [https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers-1](https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers-1)
     
--   [https://github.com/tuvovan/Vision_Transformer_Keras](https://github.com/tuvovan/Vision_Transformer_Keras)
+	-   [https://github.com/tuvovan/Vision_Transformer_Keras](https://github.com/tuvovan/Vision_Transformer_Keras)
     
 
 -   Use a GAN (very cool but lots of data engineering, need to generate images, store them, reload by batch, etc)
     
 
--   [https://machinelearningmastery.com/semi-supervised-generative-adversarial-network/](https://machinelearningmastery.com/semi-supervised-generative-adversarial-network/)
+	-   [https://machinelearningmastery.com/semi-supervised-generative-adversarial-network/](https://machinelearningmastery.com/semi-supervised-generative-adversarial-network/)
     
 
   
@@ -102,25 +102,25 @@ Sources/More Info:
 -   Fine-tuning with Keras
     
 
--   [https://keras.io/examples/vision/image_classification_efficientnet_fine_tuning/](https://keras.io/examples/vision/image_classification_efficientnet_fine_tuning/)
+	-   [https://keras.io/examples/vision/image_classification_efficientnet_fine_tuning/](https://keras.io/examples/vision/image_classification_efficientnet_fine_tuning/)
     
 
 -   EfficientNet - Compound Model Scaling: A Better Way to Scale Up CNNs
     
 
--   [https://ai.googleblog.com/2019/05/efficientnet-improving-accuracy-and.html](https://ai.googleblog.com/2019/05/efficientnet-improving-accuracy-and.html)
+	-   [https://ai.googleblog.com/2019/05/efficientnet-improving-accuracy-and.html](https://ai.googleblog.com/2019/05/efficientnet-improving-accuracy-and.html)
     
--   [https://medium.com/@nainaakash012/efficientnet-rethinking-model-scaling-for-convolutional-neural-networks-92941c5bfb95](https://medium.com/@nainaakash012/efficientnet-rethinking-model-scaling-for-convolutional-neural-networks-92941c5bfb95)
+	-   [https://medium.com/@nainaakash012/efficientnet-rethinking-model-scaling-for-convolutional-neural-networks-92941c5bfb95](https://medium.com/@nainaakash012/efficientnet-rethinking-model-scaling-for-convolutional-neural-networks-92941c5bfb95)
     
 
 -   Bag of Tricks for Image Classification
     
 
--   [https://www.dlology.com/blog/bag-of-tricks-for-image-classification-with-convolutional-neural-networks-in-keras/](https://www.dlology.com/blog/bag-of-tricks-for-image-classification-with-convolutional-neural-networks-in-keras/)
+	-   [https://www.dlology.com/blog/bag-of-tricks-for-image-classification-with-convolutional-neural-networks-in-keras/](https://www.dlology.com/blog/bag-of-tricks-for-image-classification-with-convolutional-neural-networks-in-keras/)
     
--   [https://paperswithcode.com/paper/bag-of-tricks-for-image-classification-with](https://paperswithcode.com/paper/bag-of-tricks-for-image-classification-with)
+	-   [https://paperswithcode.com/paper/bag-of-tricks-for-image-classification-with](https://paperswithcode.com/paper/bag-of-tricks-for-image-classification-with)
     
 
 -   Loading Data in Keras from DataFrame [https://vijayabhaskar96.medium.com/tutorial-on-keras-flow-from-dataframe-1fd4493d237c](https://vijayabhaskar96.medium.com/tutorial-on-keras-flow-from-dataframe-1fd4493d237c)
     
--   Noisy Student Explained [https://paperswithcode.com/method/noisy-student](https://paperswithcode.com/method/noisy-student)
+	-   Noisy Student Explained [https://paperswithcode.com/method/noisy-student](https://paperswithcode.com/method/noisy-student)
